@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RKYLMMYV
 
 [Document5]
 DocumentPath=OTC_LOCK_v1_0_dimensiones.PCBDwf
@@ -140,6 +140,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXIOSGRX
+
 [ProjectVariant1]
 UniqueID=8C0CA929-DDDD-4E11-AE4C-C9454CA09BFD
 Description=Variant of pasarela
@@ -163,6 +180,10 @@ Variation14=Designator=R38|UniqueId=\GUAISWGJ|Kind=1|AlternatePart=
 Variation15=Designator=R39|UniqueId=\DRGDQJQD|Kind=1|AlternatePart= 
 Variation16=Designator=R40|UniqueId=\RDQUFCNT|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for otc_lock\Design Rule Check - OTC_LOCK_v1_0.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
