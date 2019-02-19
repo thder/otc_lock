@@ -1,0 +1,8 @@
++Resistencias 0ohm del rele
++Nets de alimentacion, poner todos con +. Los 5V del rele estan sin conectar
++Fuente DCDC pasar a 1A
+-Generar documentacion
+-Generar flavour
+-
+07/05/2018
+-separar GND y EARTH en tornillos
